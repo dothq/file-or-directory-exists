@@ -1,0 +1,16 @@
+name: Exists
+author: Dot HQ
+description: Checks if a file or directory exists
+
+inputs:
+  input:
+    required: true
+    description: List of files or directories to check
+  
+runs:
+  using: node12
+  main: index.js
+
+branding:
+    icon: activity
+    color: gray-dark

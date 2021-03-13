@@ -1,0 +1,12 @@
+{
+  "name": "exists-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dothq/exists-action.git",
+  "author": "Dot HQ <contact@dothq.co>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  }
+}
