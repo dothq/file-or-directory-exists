@@ -4,7 +4,7 @@ Input file(s) or directories and it will error if the input cannot be found. Use
 ## Usage
 ```yml
 - name: File or Directory Exists
-  uses: dothq/file-or-directory-exists@1.0.0
+  uses: dothq/file-or-directory-exists@latest
   with:
     input: |
      ./foo.txt
