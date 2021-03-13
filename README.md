@@ -7,8 +7,8 @@ Input file(s) or directories and it will error if the input cannot be found. Use
   uses: dothq/file-or-directory-exists@latest
   with:
     input: |
-     ./foo.txt
-     /home/user/bar.js
+      ./foo.txt
+      /home/user/bar.js
 ```
 
 ## Inputs
